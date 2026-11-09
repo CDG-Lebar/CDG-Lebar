@@ -58,14 +58,21 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Lebar&theme=dark&show_icons=true&hide_border=true&card_width=420" width="420" alt="Estatísticas" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Lebar&theme=dark&layout=compact&hide_border=true&card_width=420" width="420" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CDG-Lebar&theme=dark&hide_border=true&width=420&height=195" width="420" alt="Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Lebar&theme=dark&show_icons=true&hide_border=true&card_width=420&line_height=18" width="420" alt="Estatísticas" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Lebar&theme=dark&layout=compact&hide_border=true&card_width=420" width="420" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=CDG-Lebar&theme=dark&hide_border=true&width=420&height=150" width="420" alt="Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
