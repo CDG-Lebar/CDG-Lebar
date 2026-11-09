@@ -41,13 +41,17 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDG-Lebar&theme=tokyonight&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=CDG-Lebar&theme=dark&show_icons=true&hide_border=false)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CDG-Lebar&theme=tokyonight)
+![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=CDG-Lebar&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDG-Lebar&theme=tokyonight&layout=compact)
+![Linguagens Mais Usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Lebar&theme=dark&layout=compact&hide_border=false)
+
+---
+
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=CDG-Lebar&color=007ec6&style=flat-square&label=Visualizações+do+Perfil)
 
 ---
 
